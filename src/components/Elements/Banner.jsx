@@ -7,7 +7,7 @@ const Banner = () => {
         <div className="container">
           <div className="row">
             <div className="col-md-6 col-12 d-flex align-items-center">
-              <div className="sec_right" style={{ color: "white" }}>
+              <div className="sec_right mt-5 mb-5" style={{ color: "white" }}>
                 <span className="">Introducing</span>
                 <h4 className="my-4">The SafeMoon Exchange</h4>
                 <p className="mb-5">
@@ -20,9 +20,9 @@ const Banner = () => {
                 </a>
               </div>
             </div>
-            <div className="col-md-6 col-12 ">
+            <div className="col-md-6 phone_img ">
               <div className="" data-aos="fade-up" data-aos-duration="2000">
-                <img className="image-fluid hidden-xs" src="assets/iphone.png" alt="" />
+                <img className="image-fluid" src="assets/iphone.png" alt="" />
               </div>
             </div>
           </div>

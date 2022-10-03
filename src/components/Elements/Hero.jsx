@@ -45,7 +45,7 @@ const Hero = () => {
                     Community-driven Innovation for Good
                   </p>
                   <div className="btn_info">
-                    <button href="" className="bt col-md-8 col-sm-8 col-12">
+                    <button href="" className="bt col-md-7 col-sm-8 col-12">
                       Consolidate to v2 safemoon!
                     </button>
                     <a href="" className="link_first">
@@ -84,7 +84,7 @@ const Hero = () => {
                     <img src="assets/google_play.png" alt="" />
                   </a>
                   <a href="">
-                    <img src="assets/app_store.png" alt="" />
+                    <img  src="assets/app_store.png" alt="" />
                   </a>
                 </div>
               </div>
